@@ -29,7 +29,7 @@ NitServer 教学 **Minecraft** 服务端系列
 # 🤝 贡献者
 
 <a href="https://github.com/virgil698/NitSurvivalServer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=virgil698NitSurvivalServer" />
+  <img src="https://contrib.rocks/image?repo=virgil698/NitSurvivalServer" />
 </a>
 
 # 🐧 QQ群
