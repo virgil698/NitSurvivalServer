@@ -28,8 +28,8 @@ NitServer 教学 **Minecraft** 服务端系列
 
 # 🤝 贡献者
 
-<a href="https://github.com/virgil698/vanilla-survival/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=virgil698/vanilla-survival" />
+<a href="https://github.com/virgil698/NitSurvivalServer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=virgil698NitSurvivalServer" />
 </a>
 
 # 🐧 QQ群
@@ -39,7 +39,7 @@ NitServer 教学 **Minecraft** 服务端系列
 
 # 🔖 其他地址
 
-- [GitHub](https://github.com/virgil698/vanilla-survival)
+- [GitHub](https://github.com/virgil698/NitSurvivalServer)
 
 ## 📜 笨蛋脚本
 
